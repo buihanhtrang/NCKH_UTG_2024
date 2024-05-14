@@ -1,3 +1,4 @@
+Họ và tên sinh viên: Bùi Hạnh Trang, Hoàng Vũ An, Vũ Đình Đức, Kiều Anh Hào
 # TÓM TẮT CÔNG TRÌNH
 Ung thư gan chiếm tỷ lệ cao nhất (90%) trong các loại ung thư tại Việt Nam, với khoảng 26.418 trường hợp mới mới mỗi năm, theo GLOBOCAN 2020. Điều này tạo ra áp lực lớn lên hệ thống bệnh viện trong việc chẩn đoán và điều trị kịp thời. Quy trình chẩn đoán bao gồm việc thu thập thông tin tiểu sử bệnh lý, siêu âm, xét nghiệm máu và sinh thiết gan từ đó đưa ra các kết luận về bệnh bởi một bác sĩ chuyên khoa.
 
